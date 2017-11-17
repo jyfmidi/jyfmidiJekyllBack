@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About rAjAtmanah
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**心灵的国王**
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+网螺中遇见你是我的缘
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+让我们举起手中的高脚杯
+
+为我们的友谊而干杯
+
+一起成为自己心灵的国王
