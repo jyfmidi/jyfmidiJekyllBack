@@ -1,0 +1,19 @@
+{
+  "name": "RAjAtmanah 心灵的国王",
+  "short_name": "RAjAtmanah",
+  "description": "Cheers!",
+  "icons": [{
+    "src": "icons/128.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "icons/512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
