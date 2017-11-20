@@ -62,5 +62,4 @@
 
 ## 顺大便一说
 
-一个hin好用的[在线输入法](http://www.lexilogos.com/keyboard/sanskrit_latin.htm)
-
+发现了一个还不错的在线输入法，移步[这篇](/2017/11/11/sanskrit-tools/)

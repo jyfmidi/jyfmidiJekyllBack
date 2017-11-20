@@ -2,9 +2,9 @@
 layout:       post
 title:        "天城体梵语字母表"
 subtitle:     "Sanskrit Devanagari Alphabet"
-date:         2017-11-15 12:00:00
+date:         2017-11-19 12:00:00
 author:       "Midi"
-header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
+header-img:   "img/post-bg-devanagari.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: true

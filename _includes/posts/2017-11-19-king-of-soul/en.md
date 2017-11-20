@@ -20,35 +20,35 @@ They are **14** vowels, **34** consonants（ where ḷa only exists in Veda）�
 
 ## Consonants
 
-| 喉音 |
+| Velar |
 | Devanagari | क | ख | ग | घ | ङ |
 | Latin | ka | kha | ga | gha | ṅa |
 
-| 鄂音 |
+| Palatal |
 | Devanagari | च | छ | ज | झ | ञ |
 | Latin | ca | cha | ja | jha | ña |
 
-| 卷舌音 |
+| Retroflex |
 | Devanagari | ट | ठ | ड | ढ | ण |
 | Latin | ṭa | ṭha | ḍa | ḍha | ṇa |
 
-| 齿音 |
+| Dental |
 | Devanagari | त | थ | द | ध | न |
 | Latin | ta | tha | da | dha | na |
 
-| 唇音 |
+| Bilabial |
 | Devanagari | प | फ | ब | भ | म |
 | Latin | pa | pha | ba | bha | ma |
 
-| 半元音 |
+| Semivowel |
 | Devanagari | य | र | ल | व |
 | Latin | ya | ra | la | va |
 
-| 咝音 |
+| Fricative |
 | Devanagari | श | ष | स |
 | Latin | śa | ṣa | sa |
 
-| 气音 |
+| Glottal |
 | Devanagari | ह |
 | Latin | ha |
 
@@ -62,4 +62,4 @@ They are **14** vowels, **34** consonants（ where ḷa only exists in Veda）�
 
 ## Appends
 
-A powerful [online Devanagari keyboard](http://www.lexilogos.com/keyboard/sanskrit_latin.htm)
+For typewrite tools, check [this page](/2017/11/11/sanskrit-tools/)
