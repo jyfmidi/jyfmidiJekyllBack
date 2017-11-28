@@ -5,7 +5,7 @@
 - Major: Software Engineering
 - Real major: Cooking
 - Beginner of occultism, interested in The Key of Solomon and Tarot
-- Sanskrit & Latin & Hieroglyphics learner
+- Sanskrit & Hieroglyphics learner
 - Life goal: translate hieroglyphic scripts in Ramesses II temple.
 
 ## About rAjAtmanah
@@ -20,3 +20,5 @@
 
 Because it sounds silly lol
 ![干杯](/img/about-cheers.jpg)
+
+

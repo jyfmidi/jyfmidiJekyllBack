@@ -6,7 +6,7 @@
 - 想变文艺的程序员
 - 大概是工科院校的烹饪专业
 - 喜欢烘焙、做饭、翻译
-- 神秘学小白，梵语 & 拉丁语 & 古埃及象形文字 学习中
+- 神秘学小白，梵语 & 古埃及象形文字 学习中
 - 人生目标大概是能把拉美西斯二世的神庙铭文看懂吧 2333
 
 ## 关于 rAjAtmanah
@@ -47,3 +47,5 @@
 [7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
 [8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA" -->
 [9]: //huangxuan.me/jsconfcn2017/
+
+
