@@ -9,7 +9,7 @@
 - 然后发现 Unity 5 之后出了个 State Machine Behaviour，可以在挂在 Animator 状态上，每次状态转换的时候，自己执行，不用继承 MonoBehaviour，于是把声音控制重构为状态机控制器。
 - 但是写完后发现，生成和销毁非常没有意义，浪费计算量，之后准备学习写个事件系统，靠 Message 控制声音。
 
-## GameObject 脚本控制
+## 方法 1: GameObject 脚本控制
 就很 Naïve 很传统的版本，
 - 先在每一只鸡的身上挂上两个放屁声的 AudioSource
 - 然后每只鸡挂一个控制器脚本，脚本类里有个 public 的 AudioSource 数组，把那两个放屁声拖进去
@@ -41,7 +41,7 @@ public class ChikenController : MonoBehaviour {
 
 ```
 
-## 状态机控制
+## 方法 2: 状态机控制
 在 Animator 中，可以为每一个状态附加上一个 Behaviour 脚本。这样，当切换到该状态的时候，就可以根据
 [Unity StateMachineBehaviour 文档](https://docs.unity3d.com/ScriptReference/StateMachineBehaviour.html) 中描述的函数，自动执行脚本。
 
@@ -85,5 +85,5 @@ public class LayBehaviour : StateMachineBehaviour {
 
 ```
 
-## 事件系统控制
+## 方法 3: 事件系统控制
 未完待续

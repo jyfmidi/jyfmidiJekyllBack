@@ -9,7 +9,7 @@ Every chicken will produce 2 fart sounds when clicked. If it is a bonus click, p
 - Afterwards I realize the StateMachineBehaviour technuque. It can be appended to a state in Animator and executed after state transfer. Then I reconstructed the controller into this pattern.
 - But in this pattern, the script needs to instantiate and destroy the audio object every time, which seems very meaningless and wasting. I panned to use Event System in the future and control the sound using *SendMessage()*.
 
-## GameObject Script
+## Method 1: GameObject Script
 Very Naïve and traditional version. 
 - Add 2 AudioSource Components to every chicken
 - Add a controller script to every chicken with a public AudioSource Array. And drag two AudioSource Components into the array
@@ -41,7 +41,7 @@ public class ChikenController : MonoBehaviour {
 
 ```
 
-## State Machine Behaviour
+## Method 2: State Machine Behaviour
 
 In Animator, we can add a Behaviour script to every state. When transfer to certain state, its script will be executed. The execution time can be set manually by overwritting certain functions in [Unity StateMachineBehaviour documentation](https://docs.unity3d.com/ScriptReference/StateMachineBehaviour.html)
 
@@ -85,5 +85,5 @@ public class LayBehaviour : StateMachineBehaviour {
 
 ```
 
-## Event System Management
+## Method 3: Event System Management
 To be continued.
