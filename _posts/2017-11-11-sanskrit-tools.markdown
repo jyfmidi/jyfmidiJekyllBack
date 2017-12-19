@@ -1,5 +1,4 @@
 ---
----
 layout:       post
 title:        "梵语实用工具"
 subtitle:     "Sanskrit Tools"
@@ -15,7 +14,7 @@ tags:
 ---
 
 ## 一个hin好用的在线输入法 
-[A really good online Sanskrit keyboard](http://www.lexilogos.com/keyboard/sanskrit_latin.htm)
+[A really gogiod online Sanskrit keyboard](http://www.lexilogos.com/keyboard/sanskrit_latin.htm)
 ![](/img/in-post/2017-11-11-sanskrit-tools/post-lexilogos.png) 
 
 ## 一个在线词典
