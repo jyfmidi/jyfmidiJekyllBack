@@ -4,7 +4,7 @@ title:        "Latex 常用代码块"
 subtitle:     "Latex code chunks"
 date:         2017-12-19 12:00:00
 author:       "Midi"
-header-img:   "img/post-bg-unity.jpg"
+header-img:   "img/post-bg-coding.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: true
