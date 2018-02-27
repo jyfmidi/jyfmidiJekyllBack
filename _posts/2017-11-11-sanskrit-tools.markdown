@@ -8,6 +8,7 @@ header-img:   "img/post-bg-devanagari.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: false
+public: true
 tags:
     - 梵语 Sanskrit
     - 参考 Reference
