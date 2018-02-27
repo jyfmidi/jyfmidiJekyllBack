@@ -4,6 +4,7 @@ description: "成为自己心灵的国王"
 ---
 
 {% for post in paginator.posts %}
+{% if post.public %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
@@ -23,6 +24,7 @@ description: "成为自己心灵的国王"
     </p>
 </div>
 <hr>
+{% endif %}
 {% endfor %}
 
 <!-- Pager -->

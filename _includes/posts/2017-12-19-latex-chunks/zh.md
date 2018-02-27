@@ -24,7 +24,7 @@
 Sentences besides the picture
 ```
 
-## 表格
+## 三线表
 ```
 begin{table}[!hbp]
 \centering
@@ -42,8 +42,8 @@ $f$ & 面上点/纹理/法向量组\\
 \end{table}
 ```
 
-## 文献引用
-新建 sample.bib 文件，用作文献库，库中项目格式
+## 饮用
+tex 同目录创建 sample.bib 作为文献库，格式如下
 ```
 @BOOK{ArbRaised,
 	title = {Course in general linguistics},
@@ -65,15 +65,15 @@ $f$ & 面上点/纹理/法向量组\\
 	publisher = {Anhui Literature Press}
 }
 ```
-在 tex 文件里
+在 .tex 文件中加入
 ```
-% 头部引包
+% import package in header
 \usepackage{cite}
 
 ...
 Some sentences\cite{ArbRaised}. Other sentences\cite{levelico}
 ...
-% 需要生成文献引用的地方
+% place for bibliography chunk
 \bibliographystyle{unsrt}
 \bibliography{sample}
 
